@@ -7,6 +7,7 @@ import pandas as pd
 import cvxopt as opt
 from cvxopt import blas, solvers
 import matplotlib.pyplot as plt
+import portfolioopt as pfopt
 
 
 df = pd.read_csv('dataset/SP500_companies.csv')
@@ -19,8 +20,11 @@ start_date = str(int(end_date[:4])-years) + str(end_date[4:])
 return_stocks= []
 list_stocks = []
 
+#number of assets included in the analysis
+n = 10
 
-for element in list(df['Ticker'][:10]):
+
+for element in list(df['Ticker'][:n]):
     return_1d= []
 
     element = element.strip()
@@ -38,43 +42,13 @@ for element in list(df['Ticker'][:10]):
     except:
         pass
 
-#compute the optimal portfolio
-def optimal_portfolio(returns):
-    n = len(returns)
-    print(n)
-    returns = np.asmatrix(returns)
-    
-    N = 100
-    mus = [10**(5.0 * t/N - 1.0) for t in range(N)]
-    
-    # Convert to cvxopt matrices
-    S = opt.matrix(np.cov(returns))
-    pbar = opt.matrix(np.mean(returns, axis=1))
-    
-    # Create constraint matrices
-    G = -opt.matrix(np.eye(n))   # negative n x n identity matrix
-    h = opt.matrix(0.0, (n ,1))
-    A = opt.matrix(1.0, (1, n))
-    b = opt.matrix(1.0)
-    
-    # Calculate efficient frontier weights using quadratic programming
-    portfolios = [solvers.qp(mu*S, -pbar, G, h, A, b)['x'] 
-                  for mu in mus]
-    ## CALCULATE RISKS AND RETURNS FOR FRONTIER
-    returns = [blas.dot(pbar, x) for x in portfolios]
-    risks = [np.sqrt(blas.dot(x, S*x)) for x in portfolios]
-    ## CALCULATE THE 2ND DEGREE POLYNOMIAL OF THE FRONTIER CURVE
-    m1 = np.polyfit(returns, risks, 2)
-    x1 = np.sqrt(m1[2] / m1[0])
- 
-    # CALCULATE THE OPTIMAL PORTFOLIO
-    wt = solvers.qp(opt.matrix(x1 * S), -pbar, G, h, A, b)['x']
-    return np.asarray(wt), returns, risks
+portfolio = np.array(return_stocks)
+cov_matrix = pd.DataFrame(np.cov(portfolio))
 
-weights, returns, risks = optimal_portfolio(return_stocks)
+#Optimal weights
+weights = pfopt.min_var_portfolio(cov_matrix)
 
 
-# Test the portfolio
 end_date = '2017-03-20'
 
 # 1 year of information
@@ -109,7 +83,7 @@ for element in list_stocks:
         return_benchmark_test.append(return_1d)
 
 # Compute the return and volatility of the portfolio with the Markowitz weights
-port_return = np.dot(return_stocks_1Y_test, weights)
+port_return = np.sum(return_stocks_1Y_test *weights)
 cov_matrix = np.cov(return_stocks_test)
 port_vol = np.sqrt(weights.T.dot(cov_matrix).dot( weights)) * np.sqrt(260)
 
@@ -117,13 +91,12 @@ port_vol = np.sqrt(weights.T.dot(cov_matrix).dot( weights)) * np.sqrt(260)
 benchmark_vol = np.std(return_benchmark_test )* np.sqrt(260)
 benchmark_return = return_benchmark_1Y_test[0]
 
-print(return_stocks_1Y_test)
-print(weights)
 
-print("The 1Y return of the porfolio is " + str(np.round(port_return)))
-print("The volatility (annualized) of the portfolio is " + str(np.round(port_vol)))
+print("The 1Y return of the porfolio is " + str(np.round(port_return*100)))
+print("The volatility (annualized) of the portfolio is " + str(np.round(port_vol*100)))
 print("The Sharpe ratio of the porfolio is " + str(port_return/port_vol))
 
-print("The 1Y return of the porfolio is " + str(np.round(benchmark_return*100)))
-print("The volatility (annualized) of the portfolio is " + str(np.round(benchmark_vol*100)))
-print("The Sharpe ratio of " + element + " is " + str(benchmark_return/benchmark_vol))
+print("The 1Y return of the S&P 500 is " + str(np.round(benchmark_return*100)))
+print("The volatility (annualized) of the S&P 500 is " + str(np.round(benchmark_vol*100)))
+print("The Sharpe ratio of S&P 500 is " + str(benchmark_return/benchmark_vol))
+
