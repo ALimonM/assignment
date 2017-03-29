@@ -1,0 +1,618 @@
+Symbol,Name,LastSale,MarketCap,ADR TSO,IPOyear,Sector,Industry,Summary Quote
+AAPL,Apple Inc.,140.64,7.37873E+11,n/a,1980,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/aapl
+GOOGL,Alphabet Inc.,835.14,5.77433E+11,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/googl
+GOOG,Alphabet Inc.,814.43,5.63113E+11,n/a,2004,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/goog
+MSFT,Microsoft Corporation,64.98,5.02135E+11,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/msft
+FB,"Facebook, Inc.",140.34,4.0558E+11,n/a,2012,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/fb
+ORCL,Oracle Corporation,44.65,1.83721E+11,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/orcl
+CSCO,"Cisco Systems, Inc.",34.08,1.70668E+11,n/a,1990,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/csco
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,32.81,1.70153E+11,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/tsm
+INTC,Intel Corporation,35.16,1.66236E+11,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/intc
+IBM,International Business Machines Corporation,173.83,1.63959E+11,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/ibm
+SAP,SAP SE,97.89,1.17333E+11,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/sap
+DCM,"NTT DOCOMO, Inc",24.26,89873246244,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/dcm
+AVGO,Broadcom Limited,218.97,87886339180,n/a,2009,Technology,Semiconductors,http://www.nasdaq.com/symbol/avgo
+QCOM,QUALCOMM Incorporated,56.92,84073175826,n/a,1991,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/qcom
+TXN,Texas Instruments Incorporated,80.59,80560966082,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/txn
+NVDA,NVIDIA Corporation,107.47,63299830000,n/a,1999,Technology,Semiconductors,http://www.nasdaq.com/symbol/nvda
+ADBE,Adobe Systems Incorporated,127.7,63297301375,n/a,1986,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/adbe
+CRM,Salesforce.com Inc,81.61,57739075000,n/a,2004,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/crm
+ADP,"Automatic Data Processing, Inc.",103.38,46407548927,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/adp
+BIDU,"Baidu, Inc.",168.26,46303805920,275192000,2005,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/bidu
+ITW,Illinois Tool Works Inc.,132.77,46011534447,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/itw
+YHOO,Yahoo! Inc.,46.4,44381006869,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/yhoo
+AMAT,"Applied Materials, Inc.",38.97,42081014187,n/a,1972,Technology,Semiconductors,http://www.nasdaq.com/symbol/amat
+HPE,Hewlett Packard Enterprise Company,22.77,37745931693,n/a,2015,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/hpe
+VMW,"Vmware, Inc.",91.73,37484653515,n/a,2007,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/vmw
+ATVI,"Activision Blizzard, Inc",49.12,36930722577,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/atvi
+INFY,Infosys Limited,15.67,35816162609,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/infy
+CTSH,Cognizant Technology Solutions Corporation,58.62,35678309323,n/a,1998,Technology,EDP Services,http://www.nasdaq.com/symbol/ctsh
+NXPI,NXP Semiconductors N.V.,102.99,35634834757,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/nxpi
+ETN,"Eaton Corporation, PLC",72.84,32672861360,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/etn
+MU,"Micron Technology, Inc.",28.43,31351234982,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/mu
+NOK,Nokia Corporation,5.37,31339615414,n/a,1994,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/nok
+INTU,Intuit Inc.,119.72,30622619109,n/a,1993,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/intu
+ADI,"Analog Devices, Inc.",81.64,29806006218,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/adi
+HPQ,HP Inc.,17.23,29132173412,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/hpq
+EA,Electronic Arts Inc.,89.35,27543435487,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ea
+SNAP,Snap Inc.,22.74,26315028896,n/a,2017,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/snap
+FISV,"Fiserv, Inc.",115.94,24876544363,n/a,1986,Technology,EDP Services,http://www.nasdaq.com/symbol/fisv
+WIT,Wipro Limited,10.16,24557256489,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/wit
+WDC,Western Digital Corporation,78.18,22521346452,n/a,n/a,Technology,Electronic Components,http://www.nasdaq.com/symbol/wdc
+KYO,Kyocera Corporation,56.62,20819965548,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/kyo
+LRCX,Lam Research Corporation,127.47,20757709511,n/a,1984,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/lrcx
+OMC,Omnicom Group Inc.,84.33,19777935645,n/a,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/omc
+ADSK,"Autodesk, Inc.",86.48,19099044697,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/adsk
+CERN,Cerner Corporation,57.77,19047895573,n/a,1986,Technology,EDP Services,http://www.nasdaq.com/symbol/cern
+SYMC,Symantec Corporation,30.47,18855885783,n/a,1989,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/symc
+CHKP,Check Point Software Technologies Ltd.,103.38,18081319448,n/a,1996,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/chkp
+SWKS,"Skyworks Solutions, Inc.",97.3,17992556039,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/swks
+WDAY,"Workday, Inc.",82.95,16838850000,n/a,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/wday
+INFO,IHS Markit Ltd.,40.33,16525062834,n/a,2014,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/info
+MCHP,Microchip Technology Incorporated,73.15,15832012870,n/a,1993,Technology,Semiconductors,http://www.nasdaq.com/symbol/mchp
+RHT,"Red Hat, Inc.",82.96,14790771899,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/rht
+XLNX,"Xilinx, Inc.",58.63,14595047441,n/a,1990,Technology,Semiconductors,http://www.nasdaq.com/symbol/xlnx
+NOW,"ServiceNow, Inc.",84.81,14248080000,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/now
+STM,STMicroelectronics N.V.,15.88,14028558835,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/stm
+MSI,"Motorola Solutions, Inc.",83.67,13784156418,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/msi
+DVMT,Dell Technologies Inc.,63.37,13695657287,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/dvmt
+MBLY,Mobileye N.V.,60.78,13495835475,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mbly
+STX,Seagate Technology PLC,45.24,13353801780,n/a,2002,Technology,Electronic Components,http://www.nasdaq.com/symbol/stx
+CA,CA Inc.,31.86,13316650493,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ca
+VRSK,"Verisk Analytics, Inc.",79.71,13259066298,n/a,2009,Technology,EDP Services,http://www.nasdaq.com/symbol/vrsk
+CTXS,"Citrix Systems, Inc.",83.14,12999139367,n/a,1995,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ctxs
+LLL,"L3 Technologies, Inc.",166.92,12986183040,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/lll
+AMD,"Advanced Micro Devices, Inc.",13.7,12897162642,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/amd
+MXIM,"Maxim Integrated Products, Inc.",45.23,12786131524,n/a,1988,Technology,Semiconductors,http://www.nasdaq.com/symbol/mxim
+DOV,Dover Corporation,78.14,12158048585,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/dov
+NTAP,"NetApp, Inc.",40.88,11076490289,n/a,1995,Technology,Electronic Components,http://www.nasdaq.com/symbol/ntap
+PNR,Pentair plc.,60.72,11036798185,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/pnr
+TWTR,"Twitter, Inc.",15.14,11005178233,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/twtr
+SNPS,"Synopsys, Inc.",71.15,10689502716,n/a,1992,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/snps
+JNPR,"Juniper Networks, Inc.",27.82,10626740436,n/a,1999,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/jnpr
+ASX,"Advanced Semiconductor Engineering, Inc.",6.54,10430074751,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/asx
+PANW,"Palo Alto Networks, Inc.",111.77,10286892557,n/a,2012,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/panw
+URI,"United Rentals, Inc.",120.69,10192914260,n/a,1997,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/uri
+CSC,Computer Sciences Corporation,67.84,9580243095,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/csc
+FFIV,"F5 Networks, Inc.",146.57,9495925421,n/a,1999,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/ffiv
+IPG,"Interpublic Group of Companies, Inc. (The)",24.16,9487321520,n/a,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/ipg
+ANET,"Arista Networks, Inc.",131.77,9357161636,n/a,2014,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/anet
+DOX,Amdocs Limited,62.52,9171183840,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/dox
+ANSS,"ANSYS, Inc.",105.7,9023964469,n/a,1996,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/anss
+ASML,ASML Holding N.V.,132.24,9002084205,68073837,1995,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/asml
+OTEX,Open Text Corporation,34,8946795972,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/otex
+VRSN,"VeriSign, Inc.",87.19,8922026275,n/a,1998,Technology,EDP Services,http://www.nasdaq.com/symbol/vrsn
+FLEX,Flex Ltd.,16.63,8900724598,n/a,1994,Technology,Electrical Products,http://www.nasdaq.com/symbol/flex
+CDNS,"Cadence Design Systems, Inc.",31.61,8833662006,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cdns
+QRVO,"Qorvo, Inc.",67.64,8553252308,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/qrvo
+SPLK,Splunk Inc.,60.9,8261741015,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/splk
+MRVL,Marvell Technology Group Ltd.,15.9,8075610000,n/a,2000,Technology,Semiconductors,http://www.nasdaq.com/symbol/mrvl
+COMM,"CommScope Holding Company, Inc.",41.22,8025039566,n/a,2013,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/comm
+LN,LINE Corporation,36.87,8006209890,n/a,2016,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/ln
+LDOS,"Leidos Holdings, Inc.",52.62,7911535448,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/ldos
+AER,Aercap Holdings N.V.,44.57,7855335654,n/a,2006,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/aer
+MIDD,The Middleby Corporation,136.33,7844396299,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/midd
+YNDX,Yandex N.V.,22.41,7246813357,n/a,2011,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/yndx
+JKHY,"Jack Henry & Associates, Inc.",93.33,7245177941,n/a,1985,Technology,EDP Services,http://www.nasdaq.com/symbol/jkhy
+SSNC,"SS&C Technologies Holdings, Inc.",35.61,7233660532,n/a,2010,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ssnc
+FDS,FactSet Research Systems Inc.,176.73,6992551669,n/a,1996,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/fds
+VEEV,Veeva Systems Inc.,49.57,6799140118,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/veev
+MAN,ManpowerGroup,99.92,6758772553,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/man
+TEAM,Atlassian Corporation Plc,29.43,6547219114,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/team
+IPGP,IPG Photonics Corporation,119.03,6370146245,n/a,2006,Technology,Semiconductors,http://www.nasdaq.com/symbol/ipgp
+ON,ON Semiconductor Corporation,15.18,6369692824,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/on
+FTNT,"Fortinet, Inc.",36.3,6364116835,n/a,2009,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/ftnt
+RHI,Robert Half International Inc.,48.19,6158516082,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/rhi
+TRIP,"TripAdvisor, Inc.",42.69,6154185192,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/trip
+GDDY,GoDaddy Inc.,36.39,6116517481,n/a,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/gddy
+SQ,"Square, Inc.",16.59,6091699951,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/sq
+PTC,PTC Inc.,51.94,6010574087,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ptc
+MSCC,Microsemi Corporation,51.59,5948643247,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/mscc
+TTWO,"Take-Two Interactive Software, Inc.",58.12,5893960708,n/a,1997,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ttwo
+BKFS,"Black Knight Financial Services, Inc.",37.85,5859253580,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/bkfs
+SABR,Sabre Corporation,20.91,5794767495,n/a,2014,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/sabr
+TYL,"Tyler Technologies, Inc.",154.48,5689189440,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/tyl
+ULTI,"The Ultimate Software Group, Inc.",190.39,5647634146,n/a,1998,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ulti
+LECO,"Lincoln Electric Holdings, Inc.",85.56,5626614345,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/leco
+SMI,Semiconductor  Manufacturing International Corporation,6.57,5554947772,n/a,2004,Technology,Semiconductors,http://www.nasdaq.com/symbol/smi
+WUBA,58.com Inc.,37.31,5398882212,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/wuba
+SHOP,Shopify Inc.,68.98,5359857679,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/shop
+JBL,"Jabil Circuit, Inc.",28.74,5237317129,n/a,1993,Technology,Electrical Products,http://www.nasdaq.com/symbol/jbl
+SATS,EchoStar Corporation,55.18,5234237126,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/sats
+SINA,Sina Corporation,73.07,5179286946,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/sina
+LOGI,Logitech International S.A.,31.69,5124967772,n/a,1997,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/logi
+BRCD,"Brocade Communications Systems, Inc.",12.52,5104426811,n/a,1999,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/brcd
+ARRS,ARRIS International plc,26.62,5063854533,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/arrs
+NUAN,"Nuance Communications, Inc.",16.68,4863274043,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/nuan
+UMC,United Microelectronics Corporation,1.98,4840704000,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/umc
+CAVM,"Cavium, Inc.",71.2,4829568695,n/a,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/cavm
+CSRA,CSRA Inc.,29.43,4800333392,n/a,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/csra
+CY,Cypress Semiconductor Corporation,14.45,4738467221,n/a,1986,Technology,Semiconductors,http://www.nasdaq.com/symbol/cy
+SNX,Synnex Corporation,116.94,4668702152,n/a,2003,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/snx
+ZBRA,Zebra Technologies Corporation,86.73,4586043632,n/a,1991,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/zbra
+AZPN,"Aspen Technology, Inc.",57.27,4356653806,n/a,1994,Technology,EDP Services,http://www.nasdaq.com/symbol/azpn
+UBNT,"Ubiquiti Networks, Inc.",50.67,4166678212,n/a,2011,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/ubnt
+NATI,National Instruments Corporation,32.03,4148821974,n/a,1995,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/nati
+MENT,Mentor Graphics Corporation,37.2,4110119822,n/a,1984,Technology,EDP Services,http://www.nasdaq.com/symbol/ment
+GWRE,"Guidewire Software, Inc.",55.47,4101916860,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/gwre
+MTCH,"Match Group, Inc.",15.88,4064781701,n/a,2015,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/mtch
+CW,Curtiss-Wright Corporation,91.22,4061880466,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/cw
+JCOM,"j2 Global, Inc.",83.75,4035882518,n/a,1999,Technology,Telecommunications Equipment,http://www.nasdaq.com/symbol/jcom
+TDC,Teradata Corporation,30.3,3965893947,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/tdc
+AL,Air Lease Corporation,37.76,3889381801,n/a,2011,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/al
+CRUS,"Cirrus Logic, Inc.",60.06,3857771037,n/a,1989,Technology,Semiconductors,http://www.nasdaq.com/symbol/crus
+DATA,"Tableau Software, Inc.",48.41,3778485314,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/data
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,86.09,3777711502,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/saic
+MPWR,"Monolithic Power Systems, Inc.",91.43,3764353217,n/a,2004,Technology,Semiconductors,http://www.nasdaq.com/symbol/mpwr
+EPAM,"EPAM Systems, Inc.",73.27,3750302749,n/a,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/epam
+AUO,AU Optronics Corp,3.83,3686085877,n/a,2002,Technology,Semiconductors,http://www.nasdaq.com/symbol/auo
+VSAT,"ViaSat, Inc.",63.64,3664965869,n/a,1996,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/vsat
+BLKB,"Blackbaud, Inc.",76.14,3619087546,n/a,2004,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/blkb
+ATHM,Autohome Inc.,31.9,3606440783,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/athm
+DST,"DST Systems, Inc.",114.16,3601371614,n/a,1995,Technology,EDP Services,http://www.nasdaq.com/symbol/dst
+MANH,"Manhattan Associates, Inc.",49.62,3493186471,n/a,1998,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/manh
+TECD,Tech Data Corporation,91.11,3462776406,n/a,1986,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/tecd
+NTCT,"NetScout Systems, Inc.",37.25,3419063105,n/a,1999,Technology,EDP Services,http://www.nasdaq.com/symbol/ntct
+ELLI,"Ellie Mae, Inc.",98.14,3314249824,n/a,2011,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/elli
+CLGX,"CoreLogic, Inc.",39.16,3309803474,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/clgx
+PAYC,"Paycom Software, Inc.",54.94,3268477844,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/payc
+MDSO,"Medidata Solutions, Inc.",55.97,3229754727,n/a,2009,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mdso
+PEGA,Pegasystems Inc.,41.85,3207513568,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/pega
+PFPT,"Proofpoint, Inc.",73.37,3176657088,n/a,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/pfpt
+FNSR,Finisar Corporation,28.36,3158955796,n/a,1999,Technology,Semiconductors,http://www.nasdaq.com/symbol/fnsr
+IDTI,"Integrated Device Technology, Inc.",23.59,3147368081,n/a,1984,Technology,Semiconductors,http://www.nasdaq.com/symbol/idti
+CRTO,Criteo S.A.,51.55,3139614603,60904260,2013,Technology,Advertising,http://www.nasdaq.com/symbol/crto
+SLAB,"Silicon Laboratories, Inc.",72.85,3080683641,n/a,2000,Technology,Semiconductors,http://www.nasdaq.com/symbol/slab
+CACI,"CACI International, Inc.",121,2951621123,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/caci
+SANM,Sanmina Corporation,39.7,2949451156,n/a,1993,Technology,Electrical Products,http://www.nasdaq.com/symbol/sanm
+FSLR,"First Solar, Inc.",28.31,2945505202,n/a,2006,Technology,Semiconductors,http://www.nasdaq.com/symbol/fslr
+MTSI,"MACOM Technology Solutions Holdings, Inc.",44.97,2848536914,n/a,2012,Technology,Semiconductors,http://www.nasdaq.com/symbol/mtsi
+MULE,"MuleSoft, Inc.",22.53,2838590230,n/a,2017,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mule
+WB,Weibo Corporation,49.78,2834957261,56949724,2014,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/wb
+RP,"RealPage, Inc.",34.85,2821457359,n/a,2010,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/rp
+NTNX,"Nutanix, Inc.",19.5,2792681385,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ntnx
+INXN,InterXion Holding N.V.,38.64,2723308560,n/a,2011,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/inxn
+WIX,Wix.com Ltd.,66.65,2687653452,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/wix
+NICE,NICE Ltd,67.13,2657979926,39594517,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/nice
+WBT,"Welbilt, Inc.",19.05,2645208838,n/a,2016,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/wbt
+CREE,"Cree, Inc.",27.13,2642595968,n/a,1993,Technology,Semiconductors,http://www.nasdaq.com/symbol/cree
+MOMO,Momo Inc.,33.33,2624723701,78749586,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/momo
+AMKR,"Amkor Technology, Inc.",10.95,2614733122,n/a,1998,Technology,Semiconductors,http://www.nasdaq.com/symbol/amkr
+ZEN,"Zendesk, Inc.",26.86,2605629374,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/zen
+JBT,John Bean Technologies Corporation,88,2580430952,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/jbt
+ACIW,"ACI Worldwide, Inc.",21.88,2566650335,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/aciw
+TWLO,Twilio Inc.,29.19,2555109958,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/twlo
+MLNX,"Mellanox Technologies, Ltd.",51.3,2548540805,n/a,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/mlnx
+VRNT,Verint Systems Inc.,40.4,2532257941,n/a,2002,Technology,EDP Services,http://www.nasdaq.com/symbol/vrnt
+VIAV,Viavi Solutions Inc.,10.72,2468967999,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/viav
+AYA,Amaya Inc.,16.9,2462026256,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/aya
+ZNGA,Zynga Inc.,2.8,2430967846,n/a,2011,Technology,EDP Services,http://www.nasdaq.com/symbol/znga
+ASGN,"On Assignment, Inc.",46.13,2428913151,n/a,1992,Technology,Professional Services,http://www.nasdaq.com/symbol/asgn
+RXN,Rexnord Corporation,22.74,2351929343,n/a,2012,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/rxn
+SMTC,Semtech Corporation,34.35,2266198209,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/smtc
+GRPN,"Groupon, Inc.",3.99,2242675316,n/a,2011,Technology,Advertising,http://www.nasdaq.com/symbol/grpn
+CVLT,"Commvault Systems, Inc.",49.1,2213411699,n/a,2006,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cvlt
+CSOD,"Cornerstone OnDemand, Inc.",38.91,2204521302,n/a,2011,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/csod
+HUBS,"HubSpot, Inc.",60.55,2189450459,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/hubs
+ACXM,Acxiom Corporation,27.94,2186533158,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/acxm
+FEYE,"FireEye, Inc.",12.28,2179791793,n/a,2013,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/feye
+ACIA,"Acacia Communications, Inc.",56.69,2178144937,n/a,2016,Technology,Semiconductors,http://www.nasdaq.com/symbol/acia
+EFII,"Electronics for Imaging, Inc.",46.83,2174403863,n/a,1992,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/efii
+MDRX,"Allscripts Healthcare Solutions, Inc.",11.98,2162546758,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/mdrx
+ERIC,Ericsson,6.55,2136697881,326213417,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/eric
+MSTR,MicroStrategy Incorporated,186.14,2128565625,n/a,1998,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mstr
+BOX,"Box, Inc.",16.37,2122387034,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/box
+AAN,"Aaron&#39;s,  Inc.",28.71,2083723022,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/aan
+RNG,"Ringcentral, Inc.",26.95,2008491574,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/rng
+LXFT,"Luxoft Holding, Inc.",60.4,2007784909,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/lxft
+TSEM,Tower Semiconductor Ltd.,23.05,1990528850,n/a,1994,Technology,Semiconductors,http://www.nasdaq.com/symbol/tsem
+PSTG,"Pure Storage, Inc. ",9.9,1978765074,n/a,2015,Technology,Electronic Components,http://www.nasdaq.com/symbol/pstg
+IPHI,Inphi Corporation,46.83,1949179053,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/iphi
+CVG,Convergys Corporation,20.46,1934780668,n/a,1998,Technology,EDP Services,http://www.nasdaq.com/symbol/cvg
+PLXS,Plexus Corp.,57.2,1927140930,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/plxs
+NEWR,"New Relic, Inc.",36.44,1923460985,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/newr
+SGMS,Scientific Games Corp,21.65,1908035024,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/sgms
+EBIX,"Ebix, Inc.",60.35,1900979496,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/ebix
+POWI,"Power Integrations, Inc.",64.3,1900487965,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/powi
+AMN,AMN Healthcare Services Inc,38.5,1842515714,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/amn
+AYR,Aircastle Limited,23.41,1839006869,n/a,2006,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/ayr
+CCMP,Cabot Microelectronics Corporation,73.32,1835135738,n/a,2000,Technology,Semiconductors,http://www.nasdaq.com/symbol/ccmp
+XPER,Xperi Corporation,37.25,1833385288,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/xper
+NSP,"Insperity, Inc.",86.4,1814487782,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/nsp
+BITA,Bitauto Holdings Limited,25.64,1813415281,n/a,2010,Technology,EDP Services,http://www.nasdaq.com/symbol/bita
+AMBA,"Ambarella, Inc.",54.69,1810901515,n/a,2012,Technology,Semiconductors,http://www.nasdaq.com/symbol/amba
+PCTY,Paylocity Holding Corporation,35.02,1801337468,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/pcty
+TWOU,"2U, Inc.",37.66,1778677168,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/twou
+YY,YY Inc.,46.3,1774734745,38331204,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/yy
+KFY,Korn/Ferry International,30.84,1762850082,n/a,1999,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/kfy
+CLS,"Celestica, Inc.",14.32,1746280897,n/a,1998,Technology,Electrical Products,http://www.nasdaq.com/symbol/cls
+DSGX,The Descartes Systems Group Inc.,23,1743829732,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/dsgx
+INOV,"Inovalon Holdings, Inc.",11.75,1739146875,n/a,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/inov
+SYNA,Synaptics Incorporated,49.18,1738907768,n/a,2002,Technology,EDP Services,http://www.nasdaq.com/symbol/syna
+MXL,"MaxLinear, Inc",26.5,1725501549,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/mxl
+OCLR,"Oclaro, Inc.",10.11,1684228873,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/oclr
+CYBR,CyberArk Software Ltd.,48.78,1679164720,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cybr
+CMCM,Cheetah Mobile Inc.,11.5,1639597217,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cmcm
+DDD,3D Systems Corporation,14.17,1603524471,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ddd
+TTMI,"TTM Technologies, Inc.",15.9,1596448611,n/a,2000,Technology,Electrical Products,http://www.nasdaq.com/symbol/ttmi
+BHE,"Benchmark Electronics, Inc.",32,1588135808,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/bhe
+SIMO,Silicon Motion Technology Corporation,44.75,1577311126,35247176,2005,Technology,Semiconductors,http://www.nasdaq.com/symbol/simo
+SOHU,Sohu.com Inc.,40.37,1566892437,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/sohu
+ATU,Actuant Corporation,25.9,1532903725,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/atu
+WPPGY,WPP plc,104.86,1514403220,14442144,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/wppgy
+OMCL,"Omnicell, Inc.",39.85,1472601478,n/a,2001,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/omcl
+BRKS,"Brooks Automation, Inc.",21.1,1466895379,n/a,1995,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/brks
+RMBS,"Rambus, Inc.",12.94,1444351749,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/rmbs
+KLIC,"Kulicke and Soffa Industries, Inc.",20.28,1438980318,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/klic
+ALRM,"Alarm.com Holdings, Inc.",31.05,1435514095,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/alrm
+QTWO,"Q2 Holdings, Inc.",35.3,1428443375,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/qtwo
+SSTK,"Shutterstock, Inc.",41,1414960471,n/a,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/sstk
+TTD,"The Trade Desk, Inc.",36.02,1409515045,n/a,2016,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/ttd
+FLOW,"SPX FLOW, Inc.",32.51,1375084183,n/a,2015,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/flow
+TTEC,"TeleTech Holdings, Inc.",29.9,1372200730,n/a,1996,Technology,Professional Services,http://www.nasdaq.com/symbol/ttec
+SYNT,"Syntel, Inc.",16.38,1369940563,n/a,1997,Technology,EDP Services,http://www.nasdaq.com/symbol/synt
+PRGS,Progress Software Corporation,28.03,1366035631,n/a,1991,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/prgs
+IMPV,"Imperva, Inc.",40.6,1358254486,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/impv
+OSIS,"OSI Systems, Inc.",71.61,1338546007,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/osis
+CALD,"Callidus Software, Inc.",20.9,1331971317,n/a,2003,Technology,EDP Services,http://www.nasdaq.com/symbol/cald
+TRUE,"TrueCar, Inc.",15.24,1320854503,n/a,2014,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/true
+QLYS,"Qualys, Inc.",35.7,1298028438,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/qlys
+PSDO,"Presidio, Inc.",14.61,1294607353,n/a,2017,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/psdo
+SFUN,Fang Holdings Limited,2.74,1285039738,n/a,2010,Technology,EDP Services,http://www.nasdaq.com/symbol/sfun
+BSFT,"BroadSoft, Inc.",41.75,1274772414,n/a,2010,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/bsft
+GIMO,Gigamon Inc.,34.45,1263947866,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/gimo
+TNC,Tennant Company,70.7,1252797071,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/tnc
+GLOB,Globant S.A.,36.11,1245795000,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/glob
+SYKE,"Sykes Enterprises, Incorporated",28.97,1242654186,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/syke
+SMCI,"Super Micro Computer, Inc.",25.5,1231545348,n/a,2007,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/smci
+FIT,"Fitbit, Inc.",5.4,1221524053,n/a,2015,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/fit
+CSGS,"CSG Systems International, Inc.",37.15,1220160878,n/a,1996,Technology,EDP Services,http://www.nasdaq.com/symbol/csgs
+LORL,"Loral Space and Communications, Inc.",39.35,1217203752,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/lorl
+CUDA,"Barracuda Networks, Inc.",23.04,1215968049,n/a,2013,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/cuda
+MCRN,Milacron Holdings Corp.,17.78,1215560228,n/a,2015,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/mcrn
+SXI,Standex International Corporation,93.85,1196499750,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/sxi
+COUP,Coupa Software Incorporated,23.88,1193569826,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/coup
+SNCR,"Synchronoss Technologies, Inc.",25.94,1193203139,n/a,2006,Technology,EDP Services,http://www.nasdaq.com/symbol/sncr
+INVN,"InvenSense, Inc.",12.61,1192670067,n/a,2011,Technology,Semiconductors,http://www.nasdaq.com/symbol/invn
+MIME,Mimecast Limited,21.51,1185653527,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mime
+VECO,Veeco Instruments Inc.,28.75,1166378961,n/a,1994,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/veco
+DIOD,Diodes Incorporated,24.02,1160224825,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/diod
+EVTC,"Evertec, Inc.",15.75,1144001754,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/evtc
+TBI,"TrueBlue, Inc.",26.85,1132619967,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/tbi
+EIGI,"Endurance International Group Holdings, Inc.",7.9,1122906632,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/eigi
+MB,"MINDBODY, Inc.",27.2,1111486194,n/a,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/mb
+NMBL,"Nimble Storage, Inc.",12.47,1108589497,n/a,2013,Technology,Electronic Components,http://www.nasdaq.com/symbol/nmbl
+ZPIN,Zhaopin Limited,17.09,1067118143,n/a,2014,Technology,Professional Services,http://www.nasdaq.com/symbol/zpin
+LTRPA,"Liberty TripAdvisor Holdings, Inc.",13.9,1042537196,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/ltrpa
+LTRPB,"Liberty TripAdvisor Holdings, Inc.",13.85,1038787063,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/ltrpb
+AAOI,"Applied Optoelectronics, Inc.",55.02,1027656848,n/a,2013,Technology,Semiconductors,http://www.nasdaq.com/symbol/aaoi
+SSYS,"Stratasys, Ltd.",19.19,1011229926,n/a,1994,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/ssys
+EXTN,Exterran Corporation,28.16,1001992218,n/a,2015,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/extn
+HIMX,"Himax Technologies, Inc.",9.28,1001885773,107961829,2006,Technology,Semiconductors,http://www.nasdaq.com/symbol/himx
+SCSC,"ScanSource, Inc.",39.5,997479359,n/a,n/a,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/scsc
+FIVN,"Five9, Inc.",18.52,988895049.7,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/fivn
+JOBS,"51job, Inc.",36.88,988139522.5,26793371,2004,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/jobs
+SPXC,SPX Corporation,23.35,985960381.4,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/spxc
+SPSC,"SPS Commerce, Inc.",56.48,970363112,n/a,2010,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/spsc
+EPAY,"Bottomline Technologies, Inc.",23.92,970175513.8,n/a,1999,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/epay
+WEB,"Web.com Group, Inc.",19.05,959275608.8,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/web
+SWIR,"Sierra Wireless, Inc.",29.7,953281909.8,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/swir
+PLUS,ePlus inc.,133.45,944888321.2,n/a,1996,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/plus
+SCWX,SecureWorks Corp.,11.56,932558482.4,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/scwx
+QSII,"Quality Systems, Inc.",14.74,920323782.6,n/a,1982,Technology,EDP Services,http://www.nasdaq.com/symbol/qsii
+VRTU,Virtusa Corporation,30.31,908012491.8,n/a,2007,Technology,EDP Services,http://www.nasdaq.com/symbol/vrtu
+APPF,"AppFolio, Inc.",25.7,867022550.2,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/appf
+RATE,"Bankrate, Inc.",9.6,863190489.6,n/a,2011,Technology,EDP Services,http://www.nasdaq.com/symbol/rate
+CRAY,Cray Inc,21.05,857500756.9,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/cray
+LSCC,Lattice Semiconductor Corporation,7.04,857109144.3,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/lscc
+SPWR,SunPower Corporation,6.07,841908508.3,n/a,2005,Technology,Semiconductors,http://www.nasdaq.com/symbol/spwr
+MITL,Mitel Networks Corporation,6.89,840840965.6,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/mitl
+VRNS,"Varonis Systems, Inc.",30.95,830747427.2,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/vrns
+FORM,"FormFactor, Inc.",11.55,827582355.6,n/a,2003,Technology,Semiconductors,http://www.nasdaq.com/symbol/form
+KELYB,"Kelly Services, Inc.",21.5,822244968,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/kelyb
+BNFT,"Benefitfocus, Inc.",26.75,821613597.3,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/bnft
+TRTN,Triton International Limited,24.41,815179053.3,n/a,2016,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/trtn
+KELYA,"Kelly Services, Inc.",21.11,807329826.7,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/kelya
+UTEK,"Ultratech, Inc.",29.35,793107762.9,n/a,1993,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/utek
+TYPE,Monotype Imaging Holdings Inc.,19.15,790312188.9,n/a,2007,Technology,EDP Services,http://www.nasdaq.com/symbol/type
+MGRC,McGrath RentCorp,32.65,781893613.1,n/a,1984,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/mgrc
+TGH,Textainer Group Holdings Limited,13.8,780952998.6,n/a,2007,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/tgh
+PLAB,"Photronics, Inc.",10.85,745705017.1,n/a,1987,Technology,Semiconductors,http://www.nasdaq.com/symbol/plab
+CEVA,"CEVA, Inc.",34.55,742167720.8,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/ceva
+BCOR,"Blucora, Inc.",17.5,736499487.5,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/bcor
+UIS,Unisys Corporation,14.35,723198399.4,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/uis
+HSTM,"HealthStream, Inc.",22.73,722294414.9,n/a,2000,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/hstm
+CTS,CTS Corporation,21.95,719136743.3,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/cts
+PDFS,"PDF Solutions, Inc.",22.41,718283056.6,n/a,2001,Technology,EDP Services,http://www.nasdaq.com/symbol/pdfs
+EXTR,"Extreme Networks, Inc.",6.44,696620686.2,n/a,1999,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/extr
+PRO,"PROS Holdings, Inc.",22.47,693816661,n/a,2007,Technology,EDP Services,http://www.nasdaq.com/symbol/pro
+QTNA,"Quantenna Communications, Inc.",20.93,692283819.5,n/a,2016,Technology,Semiconductors,http://www.nasdaq.com/symbol/qtna
+INST,"Instructure, Inc.",24,687795480,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/inst
+CHUBK,"CommerceHub, Inc.",15.35,659865232.1,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/chubk
+CHUBA,"CommerceHub, Inc.",15.34,659435352.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/chuba
+CSIQ,Canadian Solar Inc.,11.15,640430734.1,n/a,2006,Technology,Semiconductors,http://www.nasdaq.com/symbol/csiq
+SPNS,Sapiens International Corporation N.V.,13.07,638615635.7,n/a,1992,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/spns
+KAI,Kadant Inc,57.95,633835484.7,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/kai
+KFRC,"Kforce, Inc.",23.6,632720059.2,n/a,1995,Technology,Professional Services,http://www.nasdaq.com/symbol/kfrc
+ATEN,"A10 Networks, Inc.",9.18,627421622.8,n/a,2014,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/aten
+WK,Workiva Inc.,15.1,623109835.2,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/wk
+RPD,"Rapid7, Inc.",14.45,616157739.3,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/rpd
+PRFT,"Perficient, Inc.",17.36,614888943.2,n/a,1999,Technology,EDP Services,http://www.nasdaq.com/symbol/prft
+NEFF,Neff Corporation,17.65,585204317.8,n/a,2014,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/neff
+CAMP,CalAmp Corp.,16.44,582179560.1,n/a,1983,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/camp
+HDP,"Hortonworks, Inc.",9.31,580575445,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/hdp
+NH,"NantHealth, Inc.",4.75,575889881.3,n/a,2016,Technology,EDP Services,http://www.nasdaq.com/symbol/nh
+SEDG,"SolarEdge Technologies, Inc.",13.7,565343172.5,n/a,2015,Technology,Semiconductors,http://www.nasdaq.com/symbol/sedg
+SSNI,"Silver Spring Networks, Inc.",10.56,560124998.4,n/a,2013,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/ssni
+ICHR,Ichor Holdings,18.22,555477367,n/a,2016,Technology,Semiconductors,http://www.nasdaq.com/symbol/ichr
+CARB,"Carbonite, Inc.",19.3,543371196.4,n/a,2011,Technology,EDP Services,http://www.nasdaq.com/symbol/carb
+CYOU,Changyou.com Limited,28.89,538280097.8,18632056,2009,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cyou
+EXAR,Exar Corporation,10.43,530786736.4,n/a,1985,Technology,Semiconductors,http://www.nasdaq.com/symbol/exar
+RENN,Renren Inc.,7.75,526872659.8,n/a,2011,Technology,EDP Services,http://www.nasdaq.com/symbol/renn
+UCTT,"Ultra Clean Holdings, Inc.",15.66,523082476.6,n/a,2004,Technology,Semiconductors,http://www.nasdaq.com/symbol/uctt
+VDSI,"VASCO Data Security International, Inc.",12.9,518688811.5,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/vdsi
+TCX,Tucows Inc.,49.05,513339985.4,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/tcx
+QADA,QAD Inc.,26.95,512114168,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/qada
+JKS,JinkoSolar Holding Company Limited,16.19,511406449.6,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/jks
+CCRN,"Cross Country Healthcare, Inc.",13.55,489962363.2,n/a,2001,Technology,Professional Services,http://www.nasdaq.com/symbol/ccrn
+ACLS,"Axcelis Technologies, Inc.",16.3,487648061.7,n/a,2000,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/acls
+ACTA,Actua Corporation,13.9,484963104.8,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/acta
+KEYW,The KEYW Holding Corporation,9.74,482130750,n/a,2010,Technology,EDP Services,http://www.nasdaq.com/symbol/keyw
+HSII,"Heidrick & Struggles International, Inc.",25.5,476107975.5,n/a,1999,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/hsii
+RCII,Rent-A-Center Inc.,8.88,472387965.8,n/a,1995,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/rcii
+HLIT,Harmonic Inc.,5.9,470660717.7,n/a,1995,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/hlit
+MDCA,MDC Partners Inc.,9.4,469389893,n/a,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/mdca
+APTI,"Apptio, Inc.",11.79,452551073.9,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/apti
+IXYS,IXYS Corporation,14.3,452042877,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/ixys
+KE,"Kimball Electronics, Inc.",16.05,438647768,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/ke
+QADB,QAD Inc.,22.5768,429012955.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/qadb
+ERII,"Energy Recovery, Inc.",7.595,409220962,n/a,2008,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/erii
+AOSL,Alpha and Omega Semiconductor Limited,17.04,402242235.6,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/aosl
+NPTN,NeoPhotonics Corporation,9.26,394860604.8,n/a,2011,Technology,Semiconductors,http://www.nasdaq.com/symbol/nptn
+LPSN,"LivePerson, Inc.",6.75,393522009.8,n/a,2000,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/lpsn
+MOBL,"MobileIron, Inc.",4.4,392596569.2,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mobl
+NVEC,NVE Corporation,80.99,391749439.9,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/nvec
+BBSI,"Barrett Business Services, Inc.",52.04,377343289,n/a,1993,Technology,Professional Services,http://www.nasdaq.com/symbol/bbsi
+XTLY,Xactly Corporation,11.75,370349824.5,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/xtly
+PKE,Park Electrochemical Corporation,18.11,366449891.8,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/pke
+CPSI,"Computer Programs and Systems, Inc.",26.7,361335986.1,n/a,2002,Technology,EDP Services,http://www.nasdaq.com/symbol/cpsi
+MGIC,Magic Software Enterprises Ltd.,8.05,356962921,n/a,1991,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mgic
+BV,"Bazaarvoice, Inc.",4.25,355506392.8,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/bv
+SILC,Silicom Ltd,47.15,346390445.5,n/a,n/a,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/silc
+JIVE,"Jive Software, Inc.",4.35,344404677.2,n/a,2011,Technology,EDP Services,http://www.nasdaq.com/symbol/jive
+CMTL,Comtech Telecommunications Corp.,14.55,342698463.5,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/cmtl
+IMOS,ChipMOS TECHNOLOGIES INC.,16.94,341839984.6,20179456,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/imos
+NQ,NQ Mobile Inc.,3.71,340829467.5,n/a,2011,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/nq
+CSLT,"Castlight Health, inc.",3.2,337261235.2,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/cslt
+SONS,"Sonus Networks, Inc.",6.55,321393094.4,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/sons
+VNET,"21Vianet Group, Inc.",5.45,315906339.7,57964466,2011,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/vnet
+WATT,Energous Corporation,15.37,315483728.5,n/a,2014,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/watt
+INAP,Internap Corporation,3.8,312287819,n/a,1999,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/inap
+DGII,Digi International Inc.,11.75,310562534.5,n/a,1989,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/dgii
+BCOV,Brightcove Inc.,9.05,308243353,n/a,2012,Technology,EDP Services,http://www.nasdaq.com/symbol/bcov
+SPIL,"Siliconware Precision Industries Company, Ltd.",8.04,303778471.7,37783392,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/spil
+MX,MagnaChip Semiconductor Corporation,9.05,300938690.7,n/a,2011,Technology,Semiconductors,http://www.nasdaq.com/symbol/mx
+AMSWA,"American Software, Inc.",10.16,299420066.6,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/amswa
+GLUU,Glu Mobile Inc.,2.13,286946698.8,n/a,2007,Technology,EDP Services,http://www.nasdaq.com/symbol/gluu
+MODN,"Model N, Inc.",10.15,285962892.6,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/modn
+ECOM          ,ChannelAdvisor Corporation,10.85,284804709.7,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ecom
+UPLD,"Upland Software, Inc.",15.59,278146724.5,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/upld
+RUBI,"The Rubicon Project, Inc.",5.58,275898792.2,n/a,2014,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/rubi
+CAI,"CAI International, Inc.",14.46,275567357.8,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/cai
+KOPN,Kopin Corporation,3.99,269509976.4,n/a,1992,Technology,Semiconductors,http://www.nasdaq.com/symbol/kopn
+CRNT,Ceragon Networks Ltd.,3.44,267235220.1,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/crnt
+DMRC,Digimarc Corporation,24.85,265678308,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/dmrc
+DSPG,"DSP Group, Inc.",11.85,261498808.5,n/a,1994,Technology,Semiconductors,http://www.nasdaq.com/symbol/dspg
+KZ,KongZhong Corporation,7.42,261215698.2,35204272,n/a,Technology,Telecommunications Equipment,http://www.nasdaq.com/symbol/kz
+IVAC,"Intevac, Inc.",12.1,258823065.6,n/a,1995,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/ivac
+TLND,Talend S.A.,28.57,255085816.5,8928450,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/tlnd
+ZIXI,Zix Corporation,4.63,251721437,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/zixi
+IMMR,Immersion Corporation,8.33,241444358.6,n/a,1999,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/immr
+INSE,"Inspired Entertainment, Inc.",10.75,241004991.8,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/inse
+RDCM,Radcom Ltd.,21.2,239890508,n/a,1997,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/rdcm
+GILT,Gilat Satellite Networks Ltd.,5.23,232391111.8,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/gilt
+PCYG,"Park City Group, Inc.",11.95,231652674,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/pcyg
+JASO,"JA Solar Holdings, Co., Ltd.",5.72,230437075.4,40286202,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/jaso
+QTM,Quantum Corporation,0.8454,229968783.6,n/a,n/a,Technology,Electronic Components,http://www.nasdaq.com/symbol/qtm
+EMKR,EMCORE Corporation,8.6,228626880.6,n/a,1997,Technology,Semiconductors,http://www.nasdaq.com/symbol/emkr
+DQ,DAQO New Energy Corp.,21.91,228597174.3,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/dq
+SIGM,"Sigma Designs, Inc.",5.95,225038264.2,n/a,1986,Technology,Semiconductors,http://www.nasdaq.com/symbol/sigm
+GHM,Graham Corporation,23,223769070,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/ghm
+HIVE,"Aerohive Networks, Inc.",4.25,222245747.3,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/hive
+FUEL,Rocket Fuel Inc.,4.75,219708898.8,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/fuel
+TWIN,"Twin Disc, Incorporated",19.05,219439483.7,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/twin
+AGYS,"Agilysys, Inc.",9.39,218117117.4,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/agys
+MITK,"Mitek Systems, Inc.",6.5,216282930.5,n/a,n/a,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/mitk
+RST,Rosetta Stone,9.68,214521277.5,n/a,2009,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/rst
+SPA,Sparton Corporation,21.23,208810531.1,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/spa
+GIG,"GigPeak, Inc.",3.07,207659666,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/gig
+AMBR,"Amber Road, Inc.",7.66,207078731.8,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ambr
+MOXC,"Moxian, Inc.",3.05,204371957,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/moxc
+NCIT,"NCI, Inc.",15,203022345,n/a,2005,Technology,EDP Services,http://www.nasdaq.com/symbol/ncit
+SQNS,Sequans Communications S.A.,2.65,198549355.3,n/a,2011,Technology,Semiconductors,http://www.nasdaq.com/symbol/sqns
+EXA,Exa Corporation,12.92,192462573.3,n/a,2012,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/exa
+AVID,"Avid Technology, Inc.",4.7,192065100.5,n/a,1993,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/avid
+GUID,"Guidance Software, Inc.",5.84,190769440,n/a,2006,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/guid
+SLP,"Simulations Plus, Inc.",10.95,188677238.1,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/slp
+AXTI,AXT Inc,5.65,186627856.4,n/a,1998,Technology,Semiconductors,http://www.nasdaq.com/symbol/axti
+MJCO,Majesco,5,182490140,n/a,2015,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mjco
+OOMA,"Ooma, Inc.",9.7,175078937.5,n/a,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/ooma
+GSIT,"GSI Technology, Inc.",8.58,174892369.1,n/a,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/gsit
+GDS,GDS Holdings Limited,8.41,168794881.4,20070735,2016,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/gds
+RNWK,"RealNetworks, Inc.",4.54,168061375,n/a,1997,Technology,EDP Services,http://www.nasdaq.com/symbol/rnwk
+ENOC,"EnerNOC, Inc.",5.35,162803822.4,n/a,2007,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/enoc
+LFGR,Leaf Group Ltd.,7.95,157931822.1,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/lfgr
+ALLT,Allot Communications Ltd.,4.76,157624448.8,n/a,2006,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/allt
+VISI,"Volt Information Sciences, Inc.",7.35,153745830,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/visi
+RSYS,RadiSys Corporation,3.87,150508812.4,n/a,1995,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/rsys
+CDI,CDI Corporation,8,149385968,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/cdi
+MIXT,MiX Telematics Limited,6.61,148661279.6,n/a,2013,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mixt
+PERI,Perion Network Ltd,1.79,138814623.5,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/peri
+KVHI,"KVH Industries, Inc.",8.1,136910201.4,n/a,1996,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/kvhi
+AIRG,"Airgain, Inc.",14.5,135897364,n/a,2016,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/airg
+GFN,General Finance Corporation,5.15,135726514.5,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/gfn
+PXLW,"Pixelworks, Inc.",4.59,135531385.7,n/a,2000,Technology,Semiconductors,http://www.nasdaq.com/symbol/pxlw
+SRT,"StarTek, Inc.",8.48,134081537,n/a,1997,Technology,Professional Services,http://www.nasdaq.com/symbol/srt
+YUME,"YuMe, Inc.",3.9,132750083.7,n/a,2013,Technology,Advertising,http://www.nasdaq.com/symbol/yume
+ABTL,Autobytel Inc.,12.01,132368094.9,n/a,1999,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/abtl
+BBOX,Black Box Corporation,8.65,131033686,n/a,n/a,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/bbox
+QUIK,QuickLogic Corporation,1.92,130979575.7,n/a,1999,Technology,Semiconductors,http://www.nasdaq.com/symbol/quik
+ATTU,Attunity Ltd.,7.64,128851373.3,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/attu
+TZOO,Travelzoo Inc.,9.55,128039094.3,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/tzoo
+VUZI,Vuzix Corporation,6.15,124269360,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/vuzi
+MTLS,Materialise NV,9.09,121609383.3,13378370,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mtls
+BGSF,BG Staffing Inc,13.95,120936846.6,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/bgsf
+NTIP,"Network-1 Technologies, Inc.",4.8,116183779.2,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ntip
+MNTX,"Manitex International, Inc.",7.01,116030823.9,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/mntx
+MATR,Mattersight Corporation,3.5,113990145.5,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/matr
+SYNC,"Synacor, Inc.",3.55,111770883.8,n/a,2012,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/sync
+AMCN,AirMedia Group Inc,2.49,109235515.7,43869685,2007,Technology,Advertising,http://www.nasdaq.com/symbol/amcn
+ALOT,"AstroNova, Inc.",14.45,107983043.8,n/a,1983,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/alot
+XNET,Xunlei Limited,3.82,105961578.1,27738633,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/xnet
+AWRE,"Aware, Inc.",4.7,104440222.8,n/a,1996,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/awre
+ENPH,"Enphase Energy, Inc.",1.24,102331373.2,n/a,2012,Technology,Semiconductors,http://www.nasdaq.com/symbol/enph
+EDGW,"Edgewater Technology, Inc.",7.62,101610558.8,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/edgw
+DWCH,Datawatch Corporation,8.3,99548623,n/a,1992,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/dwch
+TRMR,"Tremor Video, Inc.",1.97,98631272.92,n/a,2013,Technology,Advertising,http://www.nasdaq.com/symbol/trmr
+MRAM,"Everspin Technologies, Inc.",7.88,98485248.64,n/a,2016,Technology,Semiconductors,http://www.nasdaq.com/symbol/mram
+PCTI,"PC-Tel, Inc.",5.52,95675963.04,n/a,1999,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/pcti
+GSUM,Gridsum Holding Inc.,12.34,95079700,7705000,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/gsum
+CTG,"Computer Task Group, Incorporated",6.02,94483087.3,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/ctg
+INTX,"Intersections, Inc.",3.88,92319443.48,n/a,2004,Technology,EDP Services,http://www.nasdaq.com/symbol/intx
+ARIS,"ARI Network Services, Inc.",5.05,88517707.95,n/a,1991,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/aris
+WSTG,"Wayside Technology Group, Inc.",18.85,87213973.6,n/a,n/a,Technology,Retail: Computer Software & Peripheral Equipment,http://www.nasdaq.com/symbol/wstg
+GSB,"GlobalSCAPE, Inc.",4.02,86499670.62,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/gsb
+ASUR,Asure Software Inc,9.97,86041329.31,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/asur
+HHS,"Harte-Hanks, Inc.",1.39,85627103.87,n/a,1993,Technology,Advertising,http://www.nasdaq.com/symbol/hhs
+KTEC,"Key Technology, Inc.",13.16,84259861,n/a,1993,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/ktec
+ATOM,Atomera Incorporated,6.96,83690965.44,n/a,2016,Technology,Semiconductors,http://www.nasdaq.com/symbol/atom
+COVS,Covisint Corporation,2,81731794,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/covs
+STV,"China Digital TV Holding Co., Ltd.",1.27,81436326.84,n/a,2007,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/stv
+SEAC,"SeaChange International, Inc.",2.3,80976231.1,n/a,1996,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/seac
+AVNW,"Aviat Networks, Inc.",15.11,80178162.78,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/avnw
+OIIM,O2Micro International Limited,2.38,79428910.96,33373492,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/oiim
+KTCC,Key Tronic Corporation,7.21,77577292.8,n/a,1983,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/ktcc
+MAMS,"MAM Software Group, Inc.",6.3,77166167.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mams
+IPAS,iPass Inc.,1.17,76967987.85,n/a,2003,Technology,EDP Services,http://www.nasdaq.com/symbol/ipas
+SPI,"SPI Energy Co., Ltd.",1.22,76611299.34,62796147,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/spi
+CYRN,CYREN Ltd.,1.95,76374776.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cyrn
+INVE,"Identiv, Inc.",6.88,76272718.88,n/a,n/a,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/inve
+GEC,"Great Elm Capital Group, Inc. ",3.2,74218019.2,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/gec
+ASYS,"Amtech Systems, Inc.",5.59,73673600.65,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/asys
+EMAN,eMagin Corporation,2.25,71150994,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/eman
+MRVC,"MRV Communications, Inc.",10.4,70740394.4,n/a,1992,Technology,Semiconductors,http://www.nasdaq.com/symbol/mrvc
+RWC,RELM Wireless Corporation,5.1,70149219.9,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/rwc
+MRIN,Marin Software Incorporated,1.75,68917350.25,n/a,2013,Technology,EDP Services,http://www.nasdaq.com/symbol/mrin
+RESN,Resonant Inc.,4.71,68032219.68,n/a,2014,Technology,Semiconductors,http://www.nasdaq.com/symbol/resn
+OTIV,On Track Innovations Ltd,1.65,67756220.4,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/otiv
+PNTR,Pointer Telocation Ltd.,8.65,67520550.6,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/pntr
+GVP,"GSE Systems, Inc.",3.6,67258832.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/gvp
+LINK,"Interlink Electronics, Inc.",9.02,66099056.1,n/a,n/a,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/link
+IOTS,Adesto Technologies Corporation,4.15,64283296.65,n/a,2015,Technology,Semiconductors,http://www.nasdaq.com/symbol/iots
+CVV,CVD Equipment Corporation,9.98,63115316.4,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/cvv
+TACT,TransAct Technologies Incorporated,8.15,59873640.85,n/a,1996,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/tact
+DLHC,DLH Holdings Corp.,5.3,59580554.2,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/dlhc
+RCMT,"RCM Technologies, Inc.",4.85,57896952.6,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/rcmt
+NTWK,NetSol Technologies Inc.,5.1,56064575.4,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ntwk
+EVOL,"Evolving Systems, Inc.",4.65,55369368.15,n/a,1998,Technology,EDP Services,http://www.nasdaq.com/symbol/evol
+LPTH,"LightPath Technologies, Inc.",2.32,55046145.84,n/a,1996,Technology,Semiconductors,http://www.nasdaq.com/symbol/lpth
+NLST,"Netlist, Inc.",0.9,54856671.3,n/a,2006,Technology,Semiconductors,http://www.nasdaq.com/symbol/nlst
+INOD,Innodata Inc.,2.1,53810047.2,n/a,1993,Technology,EDP Services,http://www.nasdaq.com/symbol/inod
+MIND,"Mitcham Industries, Inc.",4.3401,52470758.7,n/a,1994,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/mind
+LTRX,"Lantronix, Inc.",2.95,51536308.25,n/a,2000,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/ltrx
+ISSC,"Innovative Solutions and Support, Inc.",3.03,50852880.87,n/a,2000,Technology,EDP Services,http://www.nasdaq.com/symbol/issc
+SOL,Renesola Ltd.,2.42,49175776.98,n/a,2008,Technology,Semiconductors,http://www.nasdaq.com/symbol/sol
+CCUR,Concurrent Computer Corporation,4.9,48194861.4,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/ccur
+WYY,WidePoint Corporation,0.58,47983477.72,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/wyy
+MNDO,MIND C.T.I. Ltd.,2.45,47121874.1,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/mndo
+IMI,"Intermolecular, Inc.",0.95,47058193.95,n/a,2011,Technology,Semiconductors,http://www.nasdaq.com/symbol/imi
+JOB,GEE Group Inc.,4.989,46791292.19,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/job
+EGAN,eGain Corporation,1.65,44724027.15,n/a,1999,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/egan
+SPCB,"SuperCom, Ltd.",2.89,43409259.45,n/a,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/spcb
+DTRM,"Determine, Inc. ",3.61,42831971.32,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/dtrm
+INS,Intelligent Systems Corporation,4.69,41006072.31,n/a,1992,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/ins
+CSPI,CSP Inc.,10.45,39926701.65,n/a,1982,Technology,EDP Services,http://www.nasdaq.com/symbol/cspi
+SPRT,"support.com, Inc.",2.13,39529093.8,n/a,2000,Technology,EDP Services,http://www.nasdaq.com/symbol/sprt
+CVR,Chicago Rivet & Machine Co.,40.4,39031732.8,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/cvr
+COOL,"PolarityTE, Inc.",8.52,38355063.36,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cool
+HQCL,"Hanwha Q CELLS Co., Ltd. ",6.95,38235598.75,5501525,n/a,Technology,Semiconductors,http://www.nasdaq.com/symbol/hqcl
+IEC,IEC Electronics Corp.,3.7,38025073.9,n/a,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/iec
+MYSZ,"My Size, Inc.",2.14,37675468.26,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mysz
+YGE,Yingli Green Energy Holding Company Limited,2.06,37443336.62,n/a,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/yge
+SHSP,"SharpSpring, Inc.",4.45,37204950.35,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/shsp
+HSON,"Hudson Global, Inc.",1.16,36781776.48,n/a,n/a,Technology,Professional Services,http://www.nasdaq.com/symbol/hson
+IPDN,"Professional Diversity Network, Inc.",9.33,36716824.83,n/a,2013,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/ipdn
+FSNN,"Fusion Telecommunications International, Inc.",1.74,36117228.72,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/fsnn
+CCIH,ChinaCache International Holdings Ltd.,1.76,34506996.48,19606248,2010,Technology,EDP Services,http://www.nasdaq.com/symbol/ccih
+JMU,JMU Limited,2.84,33432678.8,11772070,2015,Technology,EDP Services,http://www.nasdaq.com/symbol/jmu
+QRHC,Quest Resource Holding Corporation.,2.15,32816142.3,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/qrhc
+GIGM,GigaMedia Limited,2.95,32604093.25,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/gigm
+LIVE,Live Ventures Incorporated,14.6,30015789.6,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/live
+ZDGE,"Zedge, Inc.",3.11,29993269.18,n/a,2016,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/zdge
+PFIN,"P & F Industries, Inc.",7.95,28603066.5,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/pfin
+CNIT,"China Information Technology, Inc.",0.7,28077811.3,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cnit
+CNXR,"Connecture, Inc.",1.24,28004829.6,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cnxr
+ELON,Echelon Corporation,6.203,27503915.91,n/a,1998,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/elon
+SGOC,"SGOCO Group, Ltd",2.85,27297094.8,n/a,2010,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/sgoc
+CBR,"Ciber, Inc.",0.3342,27286183.1,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/cbr
+BVSN,"BroadVision, Inc.",5.3062,26257667.03,n/a,1996,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/bvsn
+SCKT,"Socket Mobile, Inc.",4.3983,25793852.34,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/sckt
+QUMU,Qumu Corporation,2.77,25559474.19,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/qumu
+IDN,"Intellicheck Mobilisa, Inc.",2.3336,24655774.48,n/a,1999,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/idn
+FPAY,"FlexShopper, Inc.",4.7,24606417.6,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/fpay
+PRKR,"ParkerVision, Inc.",1.76,23343840.96,n/a,1993,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/prkr
+SIFY,Sify Technologies Limited,0.915,22964006.63,25097275,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/sify
+SMTX,SMTC Corporation,1.36,22751733.76,n/a,2000,Technology,Electrical Products,http://www.nasdaq.com/symbol/smtx
+TISA,"Top Image Systems, Ltd.",1.25,22398907.5,n/a,1996,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/tisa
+MNGA,MagneGas Corporation,0.426,22211343.5,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/mnga
+DGLY,"Digital Ally, Inc.",4.11,22107406.41,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/dgly
+XPLR,Xplore Technologies Corp,2.01,22050471.84,n/a,n/a,Technology,Computer Manufacturing,http://www.nasdaq.com/symbol/xplr
+RBCN,"Rubicon Technology, Inc.",0.79,21234323.89,n/a,2007,Technology,Semiconductors,http://www.nasdaq.com/symbol/rbcn
+SOFO,"Sonic Foundry, Inc.",4.8,21198830.4,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/sofo
+GLA,"GlassBridge Enterprises, Inc.",4.17,20741050.41,n/a,n/a,Technology,Electronic Components,http://www.nasdaq.com/symbol/gla
+SGMA,"SigmaTron International, Inc.",4.84,20264174.92,n/a,1994,Technology,Electrical Products,http://www.nasdaq.com/symbol/sgma
+STRM,"Streamline Health Solutions, Inc.",0.97,19093755.48,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/strm
+NNDM,Nano Dimension Ltd.,6.72,17881295.04,2660907,n/a,Technology,Electrical Products,http://www.nasdaq.com/symbol/nndm
+BLIN          ,"Bridgeline Digital, Inc.",0.817,17130754.69,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/blin
+IIJI,"Internet Initiative Japan, Inc.",8.91,16752884.94,1880234,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/iiji
+LIQT,"LiqTech International, Inc.",0.4225,16702284.79,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/liqt
+MDSY,ModSys International Ltd.,0.83,15841511.97,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/mdsy
+FALC,"FalconStor Software, Inc.",0.3586,15820020.55,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/falc
+ACY,AeroCentury Corp.,10,15666990,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/acy
+SRAX,"Social Reality, Inc.",2,15613680,n/a,n/a,Technology,Advertising,http://www.nasdaq.com/symbol/srax
+MOSY,"MoSys, Inc.",2.34,15515615.7,n/a,2001,Technology,Semiconductors,http://www.nasdaq.com/symbol/mosy
+NETE,"Net Element, Inc.",0.9192,15286422.85,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/nete
+ANY,Sphere 3D Corp.,0.222,15271305.85,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/any
+TRT,Trio-Tech International,4.1301,14509268.46,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/trt
+CAFN,"Cachet Financial Solutions, Inc.",4.4,13941787.2,n/a,n/a,Technology,Telecommunications Equipment,http://www.nasdaq.com/symbol/cafn
+CNET,"ChinaNet Online Holdings, Inc.",1.08,13131225.36,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/cnet
+QBAK,Qualstar Corporation,6.15,12558416.85,n/a,2000,Technology,Electronic Components,http://www.nasdaq.com/symbol/qbak
+TEUM,Pareteum Corporation,1.07,11918993.22,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/teum
+CPAH,CounterPath Corporation,2.3347,11688080.2,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/cpah
+SMSI,"Smith Micro Software, Inc.",0.88,10814473.12,n/a,1995,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/smsi
+LEDS,SemiLEDS Corporation,3.02,10629388.3,n/a,2010,Technology,Semiconductors,http://www.nasdaq.com/symbol/leds
+TSRI,"TSR, Inc.",5.25,10300825.5,n/a,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/tsri
+MSDI,"Monster Digital, Inc.",1.3,10171067.4,n/a,2016,Technology,Electronic Components,http://www.nasdaq.com/symbol/msdi
+WSCI,WSI Industries Inc.,3.35,9780325,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/wsci
+STAF,"Staffing 360 Solutions, Inc.",0.73,8314550.35,n/a,1996,Technology,Professional Services,http://www.nasdaq.com/symbol/staf
+FORTY,Formula Systems (1985) Ltd.,41.9286,8280269.571,197485,n/a,Technology,EDP Services,http://www.nasdaq.com/symbol/forty
+ELTK,Eltek Ltd.,0.784,7951925.408,n/a,1997,Technology,Electrical Products,http://www.nasdaq.com/symbol/eltk
+MTBCP,"Medical Transcription Billing, Corp.",25.4197,7490067.123,n/a,n/a,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mtbcp
+MTBC,"Medical Transcription Billing, Corp.",0.6572,6850331.429,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/mtbc
+BOSC,B.O.S. Better Online Solutions,2.12,6370744.16,n/a,n/a,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/bosc
+DRAM,Dataram Corporation,1.16,5589652.56,n/a,n/a,Technology,Electronic Components,http://www.nasdaq.com/symbol/dram
+BDR,"Blonder Tongue Laboratories, Inc.",0.66,5344546.02,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/bdr
+INPX,Inpixon ,2.89,5248135.96,n/a,2014,Technology,EDP Services,http://www.nasdaq.com/symbol/inpx
+SCON,Superconductor Technologies Inc.,1.29,4805155.83,n/a,1993,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/scon
+FNCX,Function(x) Inc.,0.533,4703390.276,n/a,n/a,Technology,"Computer Software: Programming, Data Processing",http://www.nasdaq.com/symbol/fncx
+TCCO,Technical Communications Corporation,2.4,4415704.8,n/a,n/a,Technology,Radio And Television Broadcasting And Communications Equipment,http://www.nasdaq.com/symbol/tcco
+CLNT,"Cleantech Solutions International, Inc.",2.75,3600085.5,n/a,n/a,Technology,Industrial Machinery/Components,http://www.nasdaq.com/symbol/clnt
+CRDS,"Crossroads Systems, Inc.",2.74,3357793.28,n/a,1999,Technology,Computer peripheral equipment,http://www.nasdaq.com/symbol/crds
+COYN,"COPsync, Inc.",0.3338,3336228.19,n/a,n/a,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/coyn
+KONE,Kingtone Wirelessinfo Solution Holding Ltd,3.3,2357437.5,714375,2010,Technology,EDP Services,http://www.nasdaq.com/symbol/kone
+COYNW,"COPsync, Inc.",0.085,0,n/a,n/a,Technology,Computer Communications Equipment,http://www.nasdaq.com/symbol/coynw
+GFNCP,General Finance Corporation,94.1834,0,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/gfncp
+GFNSL,General Finance Corporation,24.77,0,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/gfnsl
+INSEW,"Inspired Entertainment, Inc.",0.82,0,n/a,2014,Technology,Computer Software: Prepackaged Software,http://www.nasdaq.com/symbol/insew
+MINDP,"Mitcham Industries, Inc.",23.4,0,n/a,n/a,Technology,Diversified Commercial Services,http://www.nasdaq.com/symbol/mindp
+MSDIW,"Monster Digital, Inc.",0.16,0,n/a,2016,Technology,Electronic Components,http://www.nasdaq.com/symbol/msdiw
